@@ -92,7 +92,7 @@ To avoid confusion between Fist and Thumbs Up, we evaluate gestures in a priorit
 ### 1. Clone the repository (all platforms):
 
 ```
-git clone <your-repo-link>
+git clone https://github.com/snehpatel38/hand_gesture_recognition.git
 cd hand_gesture_recognition
 ```
 
